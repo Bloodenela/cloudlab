@@ -1,10 +1,15 @@
 {
   "files": {
-    "main.js": "/cloudlab/static/js/main.3c76eed7.js",
+    "main.css": "/cloudlab/static/css/main.f855e6bc.css",
+    "main.js": "/cloudlab/static/js/main.8bef3db4.js",
+    "static/js/453.46141aff.chunk.js": "/cloudlab/static/js/453.46141aff.chunk.js",
     "index.html": "/cloudlab/index.html",
-    "main.3c76eed7.js.map": "/cloudlab/static/js/main.3c76eed7.js.map"
+    "main.f855e6bc.css.map": "/cloudlab/static/css/main.f855e6bc.css.map",
+    "main.8bef3db4.js.map": "/cloudlab/static/js/main.8bef3db4.js.map",
+    "453.46141aff.chunk.js.map": "/cloudlab/static/js/453.46141aff.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3c76eed7.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8bef3db4.js"
   ]
 }
